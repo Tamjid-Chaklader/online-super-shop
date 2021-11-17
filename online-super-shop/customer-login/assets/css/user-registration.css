@@ -1,0 +1,112 @@
+body{
+	background-image: url('http://localhost/online-super-shop/grocery.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100% 100%;
+}
+.sign-up-container {
+	margin: 4em auto 0;
+    width: 50%;
+    -webkit-appearance: none;
+     background-color: cornsilk;
+    padding: 2em;
+	border-radius:3px;
+	align-self: center !important;
+
+}
+.page-header {
+	float: right;
+}
+
+.login-signup {
+	margin: 10px;
+	text-decoration: none;
+	float:left;
+}
+
+.login-signup a {
+	text-decoration: none;
+	font-weight: 1000;
+	font-size: 25px;
+	margin-left: 20px;
+	margin-right: 20px;
+	align-items: center;
+	color: black !important;
+
+}
+
+.signup-heading {
+	font-size: 2em;
+	font-weight: bold;
+	padding-top: 60px;
+	text-align: center;
+}
+
+.inline-block {
+	display: inline-block;
+}
+
+.row {
+	margin: 15px 0px;
+	text-align: center;
+}
+
+.form-label {
+	margin-bottom: 5px;
+	text-align: left;
+}
+
+input.input-box-330 {
+	width: 250px;
+}
+
+.sign-up-container .error {
+	color: #ee0000;
+	padding: 0px;
+	background: none;
+	border: #ee0000;
+}
+
+.sign-up-container .error-field {
+	border: 1px solid #d96557;
+}
+
+.sign-up-container .error:before {
+	content: '*';
+	padding: 0 3px;
+	color: #D8000C;
+}
+
+.error-msg {
+	padding-top: 10px;
+	color: #D8000C;
+	text-align: center;
+}
+
+.success-msg {
+    padding-top: 10px;
+	color: #176701;
+	text-align: center;
+}
+
+input.btn {
+	width: 250px
+}
+
+.signup-align {
+	margin: 0 auto;
+}
+
+.page-content {
+	font-weight: bold;
+	padding-top: 60px;
+	text-align: center;
+}
+.row .btn
+{
+	background-color: darkcyan !important;
+	color: black !important;
+	font-weight: 500 !important;
+	font-size: 20px !important;
+
+}
